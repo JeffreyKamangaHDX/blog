@@ -32,6 +32,6 @@ I might even document some non academic work aronnd my house on maybe a seperate
 
 I just need some links in this post in order to recieve full credit so here are those links:
 
-- https://www.arkansasonline.com/news/2026/jan/31/arkansas-falls-to-kentucky-at-home/
-- https://arkansasrazorbacks.com/sport/m-baskbl/roster/
+- <https://www.arkansasonline.com/news/2026/jan/31/arkansas-falls-to-kentucky-at-home/>
+- <https://arkansasrazorbacks.com/sport/m-baskbl/roster/>
 
