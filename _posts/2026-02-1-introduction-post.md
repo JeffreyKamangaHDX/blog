@@ -2,8 +2,7 @@
 layout: post
 title: "Introduction Post"
 categories: Intro
-author:
-- Jeffrey Kamanga
+author: Jeffrey Kamanga
 modified_date: 2026-02-01
 ---
 
