@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Jeffrey Kamanga. I was born and raised in Little Rock, Arkansas and went to school at Little Rock Parkview Arts & Science Magnet High School. I am currently in my last year at Hendrix College as a computer science major.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If I did not come to Hendrix College I defintely would have been a razorback. I am a huge fan of anything UofA related which is why you might find links on/in my blogs. I love to play basketball, working out, and watching baseball. Woo Pig!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is just a little bit about me.
