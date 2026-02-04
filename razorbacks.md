@@ -10,12 +10,12 @@ Woo Pig!
 
 ## Baseball
 
-![Razorbacks Baseball]({{/assets/images/2009_diamond_hogs_take.jpg | https://free-images.com/lg/05b1/2009_diamond_hogs_take.jpg}})
+![Razorbacks Baseball](https://free-images.com/lg/05b1/2009_diamond_hogs_take.jpg)
 
 ## Mens Basketball
 
-![Razorbacks Mens Basketball]({{/assets/images/basketball_game_2323995612_8b3e3cd668.jpg | https://free-images.com/lg/4a0d/basketball_game_2323995612_8b3e3cd668.jpg}})
+![Razorbacks Mens Basketball](https://free-images.com/lg/4a0d/basketball_game_2323995612_8b3e3cd668.jpg)
 
 ## Womens Basketball
 
-![Razorbacks Womens Basketball]({{/assets/images/vanderbelt_vs_lady_razorbacks_1.jpg | https://free-images.com/lg/e223/vanderbelt_vs_lady_razorbacks_1.jpg}})
+![Razorbacks Womens Basketball](https://free-images.com/lg/e223/vanderbelt_vs_lady_razorbacks_1.jpg)
