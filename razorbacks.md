@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Razobacks
+title: Razorbacks
 permalink: /razorbacks/
 ---
 
