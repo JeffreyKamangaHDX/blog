@@ -6,4 +6,6 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-$color-scheme-dark: true;
+body{
+  background-color: rgb(157, 34, 53);
+}
