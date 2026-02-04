@@ -8,14 +8,14 @@ The Arkansas Razorbacks have put together a strong 2025–26 campaign so far, si
 
 Woo Pig!
 
-## Baseball
+<h2 class="razorbackHeadings">Baseball</h2>
 
 ![Razorbacks Baseball](https://free-images.com/lg/05b1/2009_diamond_hogs_take.jpg)
 
-## Mens Basketball
+<h2 class="razorbackHeadings">Mens Basketball</h2>
 
 ![Razorbacks Mens Basketball](https://free-images.com/lg/4a0d/basketball_game_2323995612_8b3e3cd668.jpg)
 
-## Womens Basketball
+<h2 class="razorbackHeadings">Womens Basketball</h2>
 
 ![Razorbacks Womens Basketball](https://free-images.com/lg/e223/vanderbelt_vs_lady_razorbacks_1.jpg)
